@@ -7,6 +7,8 @@
 다만 해당 맵을 통해 그리드화 또는 Nav2 패키지 실행 등 다양한 테스트를 진행해 볼 수 있습니다.
 
 
+
+
 ![result](https://github.com/user-attachments/assets/0928aa7f-7eba-4c71-b679-3d53ae8c103d)
 ### result.pgm과 yaml파일
 SLAM이 정상적으로 완벽히 이루어진 파일입니다.
