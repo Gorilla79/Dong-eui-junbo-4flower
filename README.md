@@ -2,13 +2,13 @@
 
 동의대학교 정보관 4층 SLAM맵 정보입니다.
 
+------
+![4flower](https://github.com/user-attachments/assets/f16cc3f4-ddf6-428a-8fa3-164b5e4b611d)
 ### 4flower.pgm과 yaml파일
 해당 파일은 최초의 동작 파일로 중간에 로봇의 위치가 이동되어 실패된 맵입니다.
 다만 해당 맵을 통해 그리드화 또는 Nav2 패키지 실행 등 다양한 테스트를 진행해 볼 수 있습니다.
 
-
-
-
+------
 ![result](https://github.com/user-attachments/assets/0928aa7f-7eba-4c71-b679-3d53ae8c103d)
 ### result.pgm과 yaml파일
 SLAM이 정상적으로 완벽히 이루어진 파일입니다.
