@@ -1,4 +1,4 @@
-# Dong-eui-junbo-4flower
+# Dong-eui-jungbo-4flower
 
 동의대학교 정보관 4층 SLAM맵 정보입니다.
 
